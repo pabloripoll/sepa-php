@@ -19,3 +19,6 @@ https://www.mypos.eu/en/sepa-and-swift-transfers-what-is-the-difference
 
 https://s1.aebanca.es/wp-content/uploads/2019/07/folleto.-rdenes-en-formato-iso-20022-para-emisin-de-adeudos-directos-sepa-esquema-bsico-versin-noviembre-2019.pdf
 
+https://empresas.bankinter.com/www2/empresas/es/utilidades/ficheros/formatos_fichero
+
+https://www.bbva.es/estaticos/mult/SEPA-preguntas-frecuentes.pdf
